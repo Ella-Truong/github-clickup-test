@@ -7,3 +7,4 @@ First, try to commit with ID task in message
 Now, try new business logic
 Test push commit for issue 7
 Try the second commit
+Now, third commit, and see if the status changes to In Progress
